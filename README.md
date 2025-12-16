@@ -15,3 +15,5 @@ Built advanced DAX measures to calculate attrition rates, salary summaries by ge
 Created interactive visualizations including time-series attrition trends, demographic breakdowns, geographic employee distribution (map), and salary analysis by experience and county.
 
 Implemented slicers for age groups, experience ranges, salary bands, and counties to enable multi-level drill-down analysis.
+
+<img width="1300" height="733" alt="Image" src="https://github.com/user-attachments/assets/8ea0bf63-8677-43ed-b619-7d02a9a31fd1" />
